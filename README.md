@@ -1,6 +1,6 @@
 # Hi 👋, I'm Achraf Azzaoui
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AchrafAzzaoui&label=Profile views&color=0e75b6&style=flat" alt="AchrafAzzaoui" /> </p>
+<p align="left"> <img src="Achraf_Azzaoui_Linkedin_Profile_Picture.jpeg" alt="AchrafAzzaoui" /> </p>
 
 - 🔭 I'm currently working on **a full-stack blog application in Django to help familiarize myself with the framework for my work at RiceApps.**
 
