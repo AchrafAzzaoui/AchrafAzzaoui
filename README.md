@@ -1,9 +1,9 @@
 # Hi, I'm Achraf Azzaoui
 
 
--  I'm currently working on **building RAG Indices and benchmarking systems from scratch in C++, as well as a personal algorithm and data structure implementation compilation. **
+-  I'm currently working on building RAG Indices and benchmarking systems from scratch in C++, as well as a personal algorithm and data structure implementation compilation.
 
--  I'm currently learning **C++ fundamentals and System Design Principles. **
+-  I'm currently learning C++ fundamentals and System Design Principles.
 
 -  I'm looking to collaborate on **an open-source scheduling optimizer platform that maps natural language specifications to linear programming constraints, an ELO & Competition Tracking App, and more!**
 
