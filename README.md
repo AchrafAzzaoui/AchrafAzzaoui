@@ -1,17 +1,13 @@
-# Hi 👋, I'm Achraf Azzaoui
+# Hi, I'm Achraf Azzaoui
 
 
-- 🔭 I'm currently working on **a full-stack blog application in Django to help familiarize myself with the framework for my work at RiceApps.**
+-  I'm currently working on **building RAG Indices and benchmarking systems from scratch in C++, as well as a personal algorithm and data structure implementation compilation. **
 
-- 🌱 I'm currently learning **backend development in Django, asynchronous job scheduling with Celery and Redis, and system design principles.**
+-  I'm currently learning **C++ fundamentals and System Design Principles. **
 
-- 👯 I'm looking to collaborate on **an open-source scheduling optimizer platform that maps natural language specifications to linear programming constraints, edtech AI projects to help facilitate active recall studying, and more!**
+-  I'm looking to collaborate on **an open-source scheduling optimizer platform that maps natural language specifications to linear programming constraints, an ELO & Competition Tracking App, and more!**
 
-- 🤝 I'm looking for help with **learning quantitative trading concepts and C++. Also, reach out to me if you are interested in working together for IMC Prosperity 2026!**
-
-- 📫 How to reach me **aa270@rice.edu**
-
-- 👨‍💻 All of my projects are available at **[https://achrafazzaoui.vercel.app/](https://achrafazzaoui.vercel.app/)**
+-  Feel free to reach out if you're interested in working on a project together, or for career-related opportunities. How to reach me **aa270@rice.edu**
 
 ## Connect with me
 
